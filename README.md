@@ -1,3 +1,1 @@
-This C++ program was developed as a school project. It integrates user registration, login 
-functionality, and bus trip management using RSA encryption for password security and file 
-handling for data storage
+I developed a C++ application that manages bus trips between major Romanian cities, featuring secure user authentication through a custom-made RSA encryption system for password storage. The program allows users to create accounts, log in, and manage travel plans by adding or removing trips, with built-in validation for dates and destinations. Data persistence is implemented using CSV files, and it also includes robust error handling for input validation and file operations.
